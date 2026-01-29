@@ -1,2 +1,2 @@
 # PPSBA 
-Data and codes of PPSBA via AThFHE
+Data and codes of AThFHE for PPSBA.
